@@ -1,0 +1,20 @@
+INSERT INTO `questions` (`id`, `typ`, `Users_id`, `question`) VALUES
+(1, 1, NULL, 'Der/Die Lehrer/in gestaltet den Unterricht abwechslungsreich'),
+(2, 1, NULL, 'Der/Die Lehrer/in berücksichtigt im Unterricht die Interessen der Schüler'),
+(3, 1, NULL, 'Der/Die Lehrer/in wirkt kompetent und kann den Stoff auch verständlich erklären'),
+(4, 1, NULL, 'Der/Die Lehrer/in baut ausreichende Übungs- und Wiederholungsphasen in den Unterricht ein'),
+(5, 1, NULL, 'Der/Die Lehrer/in bereitet den Unterricht gut vor'),
+(6, 1, NULL, 'Der/Die Lehrer/in stellt klare und erfüllbare Leistungsanforderungen, auch bei Prüfungen und Schularbeiten'),
+(7, 1, NULL, 'Der/Die Lehrer/in kümmert sich um die Mitarbeit und den Fortschritt der Schüler'),
+(8, 1, NULL, 'Der/Die Lehrer/in beurteilt die Schüler gerecht'),
+(9, 1, NULL, 'Der/Die Lehrer/in legt Wert auf die Mitarbeit und bezieht diese in die Not mit ein'),
+(10, 1, NULL, 'Der/Die Lehrer/in gestaltet die Notengebung nachvollziehbar'),
+(11, 1, NULL, 'Der/Die Lehrer/in behandelt die Schüler gleich und fair'),
+(12, 1, NULL, 'Der/Die Lehrer/in ist aufgeschlossen und gesprächsbereit'),
+(13, 1, NULL, 'Der/Die Lehrer/in nimmt die Meinungen der Schüler ernst und bezieht diese in die Unterrichtsgestaltung ein'),
+(14, 1, NULL, 'Der/Die Lehrer/in reagiert überlegt bei Störungen oder Konflikten und hat die Unterrichtssituation im Griff'),
+(15, 1, NULL, 'Der/Die Lehrer/in lobt die Schüler, wenn angebracht und motiviert sie durch seine/ihre Kritik'),
+(16, 1, NULL, 'Der/Die lehrer/in verbreitet ein positives, angstfreies Unterrichtsklima'),
+(17, 2, NULL, 'Der/Die Lehrer/in hält sich auch selbst an die aufgestellten Regeln (z.B. Pünktlichkeit, Essen)'),
+(18, 3, NULL, 'Wenn nein, an was \r\nhält er/sie sich nicht?')
+(19, 2, NULL, 'Der/Die Lehrer/in liest die Zeitung?');
